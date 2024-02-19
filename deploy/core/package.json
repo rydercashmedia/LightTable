@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "bencode": "^2.0.1",
-    "codemirror": "^5.61.0",
+    "codemirror": "^5.65.16",
     "jsonify": "*",
     "replace": "^1.2.1",
     "request": "^2.88.2",
